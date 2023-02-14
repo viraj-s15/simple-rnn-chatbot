@@ -1,0 +1,8 @@
+Model/glove.6B.zip
+Model/tflearn_logs
+
+Model/glove.6B.50d.txt
+Model/glove.6B.100d.txt
+Model/glove.6B.200d.txt
+Model/glove.6B.300d.txt
+Model/tempCodeRunnerFile.py
